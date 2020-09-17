@@ -12,6 +12,6 @@ Usage :
 # git clone https://github.com/D4RK-PH1N1X/EmailBomber.git
 # cd EmailBomber
 # chmod +x *
-# python emailbomber.py
+# python2 emailbomber.py
 
 
